@@ -1,0 +1,57 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/app/_not-found/page-eb3b180e2964d882.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/css/79dd30ae1f500642.css",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/50-d2597a55f3caa51f.js",
+      "static/chunks/app/layout-76a0e7741c6ec05d.js"
+    ],
+    "/budismo/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/budismo/page-ed45b7e148df8031.js"
+    ],
+    "/metafisica/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/metafisica/page-8b790e5d69835021.js"
+    ],
+    "/estoicismo/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/estoicismo/page-fae775233428698f.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1b400f1de436fe28.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/app/page-74b68e43878738a3.js"
+    ]
+  }
+}
