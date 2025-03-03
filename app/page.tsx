@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container mx-auto py-12 px-4">
       <section className="text-center mb-16">
-        <h1 className="text-4xl font-bold mb-6">Mis Pilares Filosóficos da</h1>
+        <h1 className="text-4xl font-bold mb-6">Mis Pilares Filosóficos</h1>
         <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
           Un espacio dedicado a explorar los fundamentos filosóficos que guían mi vida: La Metafísica, El Budismo y El
           Estoicismo.

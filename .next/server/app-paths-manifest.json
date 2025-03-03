@@ -1,7 +1,6 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/budismo/page": "app/budismo/page.js",
+  "/page": "app/page.js",
   "/metafisica/page": "app/metafisica/page.js",
   "/estoicismo/page": "app/estoicismo/page.js",
-  "/page": "app/page.js"
+  "/budismo/page": "app/budismo/page.js"
 }
