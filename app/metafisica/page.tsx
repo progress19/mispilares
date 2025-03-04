@@ -9,6 +9,7 @@ export default function MetafisicaPage() {
     {
       nombre: "Ley del Mentalismo",
       descripcion: "El Todo es mente; el Universo es mental. Todo lo que existe comienza como un pensamiento o idea.",
+      link: "/metafisica/mentalismo"
     },
     {
       nombre: "Ley de Correspondencia",
@@ -64,7 +65,14 @@ export default function MetafisicaPage() {
         {leyes.map((ley, index) => (
           <Card key={index}>
             <CardHeader>
-              <CardTitle>{ley.nombre}</CardTitle>
+              <CardTitle>
+                {ley.nombre}
+                {ley.link && (
+                  <Link href={ley.link} className="text-primary ml-2">
+                    Leer más
+                  </Link>
+                )}
+              </CardTitle>
             </CardHeader>
             <CardContent>
               <p>{ley.descripcion}</p>

@@ -6,14 +6,14 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
 
-// Configura Inter (que ya tienes)
-const inter = Inter({ subsets: ['latin'] })
+// Configura Inter
+const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 
 // Configura Poppins
 const poppins = Poppins({
   subsets: ['latin'],
   weight: ['400', '500', '600', '700'],
-  variable: '--font-poppins',
+  variable: '--font-poppins'
 })
 
 export const metadata: Metadata = {
@@ -28,8 +28,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="es" className={`${inter.variable} ${poppins.variable}`} suppressHydrationWarning>
-      <body className={inter.className}>
+    <html lang="es" className={`${inter.variable} ${poppins.variable} font-sans`} suppressHydrationWarning>
+      <body className="font-sans">
         <ThemeProvider 
           attribute="class" 
           defaultTheme="dark" 
