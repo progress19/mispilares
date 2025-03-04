@@ -1,12 +1,20 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Inter } from "next/font/google"
+import { Inter, Poppins } from "next/font/google"
 import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
 
-const inter = Inter({ subsets: ["latin"] })
+// Configura Inter (que ya tienes)
+const inter = Inter({ subsets: ['latin'] })
+
+// Configura Poppins
+const poppins = Poppins({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-poppins',
+})
 
 export const metadata: Metadata = {
   title: "Mis Pilares",
@@ -20,7 +28,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="es" suppressHydrationWarning>
+    <html lang="es" className={`${inter.variable} ${poppins.variable}`} suppressHydrationWarning>
       <body className={inter.className}>
         <ThemeProvider 
           attribute="class" 
