@@ -1,25 +1,65 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/app/_not-found/page-eb3b180e2964d882.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/css/5c7ae640e0a3d986.css",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/421-50efb5a36c83f9a0.js",
+      "static/chunks/app/layout-fe48664c39a5d775.js"
     ],
-    "/metafisica/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/metafisica/page.js"
+    "/budismo/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/budismo/page-e40f25429eeaacd1.js"
+    ],
+    "/estoicismo/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/estoicismo/page-fae775233428698f.js"
     ],
     "/metafisica/mentalismo/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/metafisica/mentalismo/page.js"
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/app/metafisica/mentalismo/page-2799d75769603bd8.js"
+    ],
+    "/metafisica/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/app/metafisica/page-8b790e5d69835021.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/app/page-b431d39557d90a2d.js"
     ]
   }
 }

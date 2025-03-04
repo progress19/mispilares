@@ -1,5 +1,8 @@
 {
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/budismo/page": "app/budismo/page.js",
+  "/estoicismo/page": "app/estoicismo/page.js",
+  "/metafisica/mentalismo/page": "app/metafisica/mentalismo/page.js",
   "/metafisica/page": "app/metafisica/page.js",
-  "/metafisica/mentalismo/page": "app/metafisica/mentalismo/page.js"
+  "/page": "app/page.js"
 }
