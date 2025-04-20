@@ -30,6 +30,11 @@ export function Navbar() {
       label: "Estoicismo",
       active: pathname === "/estoicismo",
     },
+    {
+      href: "/blog",
+      label: "Blog",
+      active: pathname === "/blog",
+    },
   ]
 
   return (

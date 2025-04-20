@@ -1,5 +1,8 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+  "/blog/lenguaje-secreto-dinero/page": "app/blog/lenguaje-secreto-dinero/page.js",
+  "/blog/no-estas-solo/page": "app/blog/no-estas-solo/page.js",
+  "/blog/page": "app/blog/page.js",
   "/budismo/page": "app/budismo/page.js",
   "/estoicismo/page": "app/estoicismo/page.js",
   "/metafisica/mentalismo/page": "app/metafisica/mentalismo/page.js",
