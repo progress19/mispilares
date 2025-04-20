@@ -28,7 +28,7 @@ export default function BlogPost() {
           <CardTitle className="text-3xl mb-6">No Estás Solo: El Poder Oculto de los que Sienten Diferente</CardTitle>
         </CardHeader>
         <CardContent className="prose dark:prose-invert max-w-none">
-          <div className="text-base md:text-lg lg:text-xl leading-relaxed md:leading-loose space-y-8">
+          <div className="text-lg md:text-lg lg:text-lg leading-relaxed md:leading-loose space-y-6">
             <p>
               ¿Alguna vez has sentido que no encajas? ¿Una sensación persistente de ser diferente, de percibir la realidad con una intensidad que otros no comparten? Quizás desde la infancia te acompañó la impresión de ver más allá de lo evidente, de sentir energías invisibles, de que había algo fundamental que el mundo parecía haber olvidado.
             </p>
