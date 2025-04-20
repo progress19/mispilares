@@ -1,4 +1,7 @@
 {
   "/blog/no-estas-solo/page": "app/blog/no-estas-solo/page.js",
-  "/blog/page": "app/blog/page.js"
+  "/blog/page": "app/blog/page.js",
+  "/blog/epidemia-silenciosa/page": "app/blog/epidemia-silenciosa/page.js",
+  "/page": "app/page.js",
+  "/budismo/page": "app/budismo/page.js"
 }

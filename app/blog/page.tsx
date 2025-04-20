@@ -17,17 +17,15 @@ interface BlogPost {
 }
 
 const blogPosts: BlogPost[] = [
-  /*
   {
-    id: "2",
-    title: "El Lenguaje Secreto del Dinero",
-    description: "Una exploración profunda sobre cómo la frecuencia interna y las emociones elevadas pueden transformar nuestra relación con la abundancia y el dinero.",
+    id: "3",
+    title: "La Epidemia Silenciosa: Vivimos entre Seres sin Conciencia Interior",
+    description: "Una exploración profunda sobre la naturaleza de la consciencia y cómo muchos viven en piloto automático, siguiendo patrones sin verdadera reflexión interior.",
     date: "20 Abril, 2025",
-    readingTime: "12 minutos",
-    slug: "lenguaje-secreto-dinero",
-    categories: ["metafisica", "mentalismo", "espiritualidad"]
+    readingTime: "10 minutos",
+    slug: "epidemia-silenciosa",
+    categories: ["metafisica", "filosofia", "espiritualidad"]
   },
-  */
   {
     id: "1",
     title: "No Estás Solo: El Poder Oculto de los que Sienten Diferente",
