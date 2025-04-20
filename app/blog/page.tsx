@@ -17,6 +17,7 @@ interface BlogPost {
 }
 
 const blogPosts: BlogPost[] = [
+  /*
   {
     id: "2",
     title: "El Lenguaje Secreto del Dinero",
@@ -26,6 +27,7 @@ const blogPosts: BlogPost[] = [
     slug: "lenguaje-secreto-dinero",
     categories: ["metafisica", "mentalismo", "espiritualidad"]
   },
+  */
   {
     id: "1",
     title: "No Estás Solo: El Poder Oculto de los que Sienten Diferente",

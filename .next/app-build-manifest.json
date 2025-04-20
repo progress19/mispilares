@@ -12,18 +12,18 @@
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/css/6570bfde631df9d7.css",
-      "static/chunks/972-b2019802b076e131.js",
-      "static/chunks/903-0024ed6f965b1cb3.js",
-      "static/chunks/421-50efb5a36c83f9a0.js",
-      "static/chunks/app/layout-8d8e5ed192edb958.js"
+      "static/css/4d8f5481bbe4b17e.css",
+      "static/chunks/972-2f1e184a72cf3f66.js",
+      "static/chunks/903-8a72098605d06f80.js",
+      "static/chunks/421-70154acebfb4e39e.js",
+      "static/chunks/app/layout-a7c26c9dce8cd419.js"
     ],
     "/blog/lenguaje-secreto-dinero/page": [
       "static/chunks/webpack-7f87e7805368d700.js",
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
       "static/chunks/app/blog/lenguaje-secreto-dinero/page-17b86d4799623b5e.js"
     ],
     "/blog/no-estas-solo/page": [
@@ -31,7 +31,7 @@
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
       "static/chunks/app/blog/no-estas-solo/page-4bde455a575b55a8.js"
     ],
     "/blog/page": [
@@ -39,51 +39,51 @@
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
       "static/chunks/app/blog/page-9e429dee7ad99d0a.js"
-    ],
-    "/budismo/page": [
-      "static/chunks/webpack-7f87e7805368d700.js",
-      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
-      "static/chunks/117-e468de0ff881a917.js",
-      "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
-      "static/chunks/903-0024ed6f965b1cb3.js",
-      "static/chunks/app/budismo/page-e40f25429eeaacd1.js"
     ],
     "/estoicismo/page": [
       "static/chunks/webpack-7f87e7805368d700.js",
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
-      "static/chunks/903-0024ed6f965b1cb3.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
+      "static/chunks/903-8a72098605d06f80.js",
       "static/chunks/app/estoicismo/page-fae775233428698f.js"
+    ],
+    "/budismo/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
+      "static/chunks/903-8a72098605d06f80.js",
+      "static/chunks/app/budismo/page-e40f25429eeaacd1.js"
     ],
     "/metafisica/mentalismo/page": [
       "static/chunks/webpack-7f87e7805368d700.js",
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
       "static/chunks/app/metafisica/mentalismo/page-02a0321559c198cc.js"
-    ],
-    "/metafisica/page": [
-      "static/chunks/webpack-7f87e7805368d700.js",
-      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
-      "static/chunks/117-e468de0ff881a917.js",
-      "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
-      "static/chunks/903-0024ed6f965b1cb3.js",
-      "static/chunks/app/metafisica/page-8b790e5d69835021.js"
     ],
     "/page": [
       "static/chunks/webpack-7f87e7805368d700.js",
       "static/chunks/fd9d1056-3750f1c68fb99acb.js",
       "static/chunks/117-e468de0ff881a917.js",
       "static/chunks/main-app-af18906f8a1193ce.js",
-      "static/chunks/972-b2019802b076e131.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
       "static/chunks/app/page-020b6fa300024a33.js"
+    ],
+    "/metafisica/page": [
+      "static/chunks/webpack-7f87e7805368d700.js",
+      "static/chunks/fd9d1056-3750f1c68fb99acb.js",
+      "static/chunks/117-e468de0ff881a917.js",
+      "static/chunks/main-app-af18906f8a1193ce.js",
+      "static/chunks/972-2f1e184a72cf3f66.js",
+      "static/chunks/903-8a72098605d06f80.js",
+      "static/chunks/app/metafisica/page-fe4b8264193f5787.js"
     ]
   }
 }

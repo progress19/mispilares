@@ -3,9 +3,9 @@
   "/blog/lenguaje-secreto-dinero/page": "app/blog/lenguaje-secreto-dinero/page.js",
   "/blog/no-estas-solo/page": "app/blog/no-estas-solo/page.js",
   "/blog/page": "app/blog/page.js",
-  "/budismo/page": "app/budismo/page.js",
   "/estoicismo/page": "app/estoicismo/page.js",
+  "/budismo/page": "app/budismo/page.js",
   "/metafisica/mentalismo/page": "app/metafisica/mentalismo/page.js",
-  "/metafisica/page": "app/metafisica/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/metafisica/page": "app/metafisica/page.js"
 }
