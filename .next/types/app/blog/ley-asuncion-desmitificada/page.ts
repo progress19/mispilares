@@ -1,8 +1,8 @@
-// File: /home/progress19/Desarrollo/mispilares/app/budismo/page.tsx
-import * as entry from '../../../../app/budismo/page.js'
+// File: /home/progress19/Desarrollo/mispilares/app/blog/ley-asuncion-desmitificada/page.tsx
+import * as entry from '../../../../../app/blog/ley-asuncion-desmitificada/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../app/budismo/page.js')
+type TEntry = typeof import('../../../../../app/blog/ley-asuncion-desmitificada/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

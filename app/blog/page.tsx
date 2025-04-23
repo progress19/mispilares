@@ -18,6 +18,15 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
+    id: "4",
+    title: "La Ley de la Asunción Desmitificada: Por Qué Sentir Es Más Poderoso que Querer",
+    description: "Descubre por qué el verdadero poder de manifestación reside en tus sentimientos y no en tus pensamientos. Una guía práctica para transformar tu realidad desde adentro.",
+    date: "22 Abril, 2025",
+    readingTime: "10 minutos",
+    slug: "ley-asuncion-desmitificada",
+    categories: ["metafisica", "mentalismo", "espiritualidad"]
+  },
+  {
     id: "3",
     title: "La Epidemia Silenciosa: Vivimos entre Seres sin Conciencia Interior",
     description: "Una exploración profunda sobre la naturaleza de la consciencia y cómo muchos viven en piloto automático, siguiendo patrones sin verdadera reflexión interior.",
